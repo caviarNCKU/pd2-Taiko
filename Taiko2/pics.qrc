@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/pics">
+        <file>Taiko_start.jpg</file>
+    </qresource>
+</RCC>

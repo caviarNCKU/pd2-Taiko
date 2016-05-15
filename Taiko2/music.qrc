@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/bgm">
+        <file>mus/04-Talk That Talk.mp3</file>
+        <file>mus/bgm-30s.mp3</file>
+    </qresource>
+</RCC>

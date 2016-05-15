@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/picture">
+        <file>Taiko_start.jpg</file>
+        <file>pic2.png</file>
+        <file>bg.png</file>
+        <file>mtaikoflash_blue.png</file>
+        <file>sfieldbg_gogo.png</file>
+        <file>pic/hit_drum.png</file>
+        <file>pic/blue_drum.png</file>
+        <file>pic/red_drum.png</file>
+    </qresource>
+</RCC>
